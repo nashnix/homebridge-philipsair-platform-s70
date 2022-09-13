@@ -1,6 +1,6 @@
 {
   "name": "@we5/homebridge-philipsair-platform",
-  "version": "2.0.0-beta.0",
+  "version": "2.0.0-beta.1",
   "description": "Homebridge plugin for philips air purifier and humidifier.",
   "author": "we5 (https://github.com/we5/homebridge-philipsair-platform)",
   "scripts": {
