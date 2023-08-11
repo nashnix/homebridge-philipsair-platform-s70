@@ -38,7 +38,7 @@ class Handler {
         aqil: 'D03-04',
         uil: 'D03-05',
         iaql: 'D03-32',
-        pm25: 'D03-33',
+        pm25: 'D03-43',
         fltt1: 'D05-02',
         fltt2: 'D05-03',
         flttotal0: 'D05-07',
